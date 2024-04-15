@@ -19,7 +19,7 @@
 //     }, 3000)
 // }
 
-export const orderCoffee = (coffeeName: string, cbError, cbSuccess) => {
+export const orderCoffee = (coffeeName: string, cbError: any, cbSuccess: any) => {
     let coffee = null;
     console.log("sedang membuat kopi, harap menunggu...");
     setTimeout(() => {

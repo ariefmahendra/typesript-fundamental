@@ -10,5 +10,8 @@
   },
   "keywords": [],
   "author": "Arief mahendra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
 }
